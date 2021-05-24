@@ -1,0 +1,12 @@
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\Evaluacion2\ServicioComunicacion\SocketsUtils\bin\Debug\SocketsUtils.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\Evaluacion2\ServicioComunicacion\SocketsUtils\bin\Debug\SocketsUtils.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\Evaluacion2\ServicioComunicacion\SocketsUtils\obj\Debug\SocketsUtils.csprojAssemblyReference.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\Evaluacion2\ServicioComunicacion\SocketsUtils\obj\Debug\SocketsUtils.csproj.CoreCompileInputs.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\Evaluacion2\ServicioComunicacion\SocketsUtils\obj\Debug\SocketsUtils.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\Evaluacion2\ServicioComunicacion\SocketsUtils\obj\Debug\SocketsUtils.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\SocketsUtils\bin\Debug\SocketsUtils.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\SocketsUtils\bin\Debug\SocketsUtils.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\SocketsUtils\obj\Debug\SocketsUtils.csprojAssemblyReference.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\SocketsUtils\obj\Debug\SocketsUtils.csproj.CoreCompileInputs.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\SocketsUtils\obj\Debug\SocketsUtils.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\SocketsUtils\obj\Debug\SocketsUtils.pdb

@@ -1,0 +1,15 @@
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.exe.config
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.exe
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\ClienteSocketApp.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.csprojAssemblyReference.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.csproj.CoreCompileInputs.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.exe
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\SocketsUtils.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\SocketsUtils.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\obj\Debug\ClienteSocketApp.csproj.CopyComplete
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\MedidoresApp.exe
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\ServicioComunicacionModel.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\MedidoresApp.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\MedidoresApp.exe.config
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ClienteSocketApp\bin\Debug\ServicioComunicacionModel.pdb

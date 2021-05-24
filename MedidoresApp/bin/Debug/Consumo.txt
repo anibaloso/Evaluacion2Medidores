@@ -1,0 +1,98 @@
+{
+   "Fecha": "22-05-2021 15:32:36" 
+   "IdMedidor": "5" 
+   "cantidadConsumo": "5900" 
+   "estado": "Punto de carga lleno"
+   UPDATE 
+}
+{
+   "Fecha": "22-05-2021 15:37:11" 
+   "IdMedidor": "5" 
+   "cantidadConsumo": "5900" 
+   "estado": "Punto de carga lleno"
+   UPDATE 
+}
+{
+   "Fecha": "22-05-2021 15:40:34" 
+   "IdMedidor": "5" 
+   "cantidadConsumo": "5900" 
+   "estado": "Punto de carga lleno"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 15:08:32" 
+   "IdMedidor": "5" 
+   "cantidadConsumo": "5900" 
+   "estado": "Punto de carga lleno"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 15:52:35" 
+   "IdMedidor": "1" 
+   "cantidadConsumo": "5900" 
+   "estado": "Error de lectura"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 16:35:44" 
+   "IdMedidor": "3" 
+   "cantidadConsumo": "465895" 
+   "estado": "Error de lectura"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 16:49:30" 
+   "IdMedidor": "2" 
+   "cantidadConsumo": "49990" 
+   "estado": "OK"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 16:53:20" 
+   "IdMedidor": "3" 
+   "cantidadConsumo": "256200" 
+   "estado": "Punto de carga lleno"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 18:02:59" 
+   "IdMedidor": "2" 
+   "cantidadConsumo": "45000" 
+   "estado": "Error de lectura"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 19:10:00" 
+   "IdMedidor": "1" 
+   "cantidadConsumo": "1000" 
+   "estado": "Error de lectura"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 19:10:00" 
+   "IdMedidor": "4" 
+   "cantidadConsumo": "2000" 
+   "estado": "OK"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 19:17:00" 
+   "IdMedidor": "4" 
+   "cantidadConsumo": "20000" 
+   "estado": "Error de lectura"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 19:19:00" 
+   "IdMedidor": "4" 
+   "cantidadConsumo": "20000" 
+   "estado": "Error de lectura"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 19:22:00" 
+   "IdMedidor": "4" 
+   "cantidadConsumo": "20000" 
+   "estado": "sin estado"
+   UPDATE 
+}

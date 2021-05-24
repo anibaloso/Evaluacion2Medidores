@@ -1,0 +1,35 @@
+{
+   "Fecha": "22-05-2021 15:32:45" 
+   "IdMedidor": "3" 
+   "cantidadConsumo": "5900" 
+   "estado": "Punto de carga lleno"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 16:12:01" 
+   "IdMedidor": "10" 
+   "cantidadConsumo": "25648" 
+   "estado": "OK"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 16:29:12" 
+   "IdMedidor": "3" 
+   "cantidadConsumo": "365895" 
+   "estado": "Punto de carga lleno"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 16:39:05" 
+   "IdMedidor": "3" 
+   "cantidadConsumo": "45000" 
+   "estado": "OK"
+   UPDATE 
+}
+{
+   "Fecha": "23-05-2021 16:39:50" 
+   "IdMedidor": "5" 
+   "cantidadConsumo": "120000" 
+   "estado": "Punto de carga lleno"
+   UPDATE 
+}

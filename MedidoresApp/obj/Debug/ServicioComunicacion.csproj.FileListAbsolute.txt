@@ -1,0 +1,12 @@
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\obj\Debug\ServicioComunicacion.csprojAssemblyReference.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\obj\Debug\ServicioComunicacion.csproj.CoreCompileInputs.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\bin\Debug\MedidoresApp.exe.config
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\bin\Debug\MedidoresApp.exe
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\bin\Debug\MedidoresApp.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\bin\Debug\ServicioComunicacionModel.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\bin\Debug\SocketsUtils.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\bin\Debug\ServicioComunicacionModel.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\bin\Debug\SocketsUtils.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\obj\Debug\ServicioComunicacion.csproj.CopyComplete
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\obj\Debug\MedidoresApp.exe
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\MedidoresApp\obj\Debug\MedidoresApp.pdb

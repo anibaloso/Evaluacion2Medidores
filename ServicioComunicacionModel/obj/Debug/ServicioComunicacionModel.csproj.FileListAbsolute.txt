@@ -1,0 +1,6 @@
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ServicioComunicacionModel\bin\Debug\ServicioComunicacionModel.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ServicioComunicacionModel\bin\Debug\ServicioComunicacionModel.pdb
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ServicioComunicacionModel\obj\Debug\ServicioComunicacionModel.csprojAssemblyReference.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ServicioComunicacionModel\obj\Debug\ServicioComunicacionModel.csproj.CoreCompileInputs.cache
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ServicioComunicacionModel\obj\Debug\ServicioComunicacionModel.dll
+C:\Users\aniba\OneDrive\Escritorio\evaluacion 2\nuevo proyecto\MedidoresApp\ServicioComunicacionModel\obj\Debug\ServicioComunicacionModel.pdb
